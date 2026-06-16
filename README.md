@@ -313,3 +313,5 @@ Future improvements possible:
 - Production deployment uses MongoDB Atlas and AWS S3
 - Real-time collaboration currently uses a simpler last-write-wins model
 - For production security, rotate secrets if they were ever exposed during setup or screenshots
+
+Updated by Harsh
